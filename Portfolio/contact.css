@@ -1,0 +1,42 @@
+
+.size{
+    width:30%;
+    height:inherit;
+    /* filter: blur(0.6px); */
+}
+.height{
+    margin: 0 auto; 
+}
+.ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.containerr{
+   height:8vh;
+   font-size: 20px;
+   border-radius: 3em 3em;
+   font-family:'Helvetica Neue', sans-serif;
+   border:1px solid blue;
+   outline:blue;
+}
+.adjust{
+    padding-left:2%;
+    padding-right:2%;
+    color:white;
+    height:8vh;
+   font-size: 20px;
+   border-radius: 3em 3em;
+   border:1px solid blue;
+   outline:blue;
+   background: #141485;
+}
+.round{
+    border-radius: 2em 2em;
+    width:inherit;
+    height:16vh;
+ overflow: hidden;
+ resize:none;
+    
+
+}
